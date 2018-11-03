@@ -1,19 +1,19 @@
-# PhoScan
+## PhoScan
 
-how to use?
+# how to use?
 
 ```markdown
 
-cloning this repository
+Cloning This Repository
 
-enter the PhoScan directory
+Enter The PhoScan Directory
 
-run the tool
+Run The Tool
 
-type help to see the command
+Type Help To See The Commands
 
-set your target host
+Set Your Target Host
 
-set the scanning method
+Set The Scanning Method
 '''
 #Enjoy Scanning
