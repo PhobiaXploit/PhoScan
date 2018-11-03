@@ -1,6 +1,6 @@
-## PhoScan
+# PhoScan
 
-# how to use?
+## How To Use?
 
 ```markdown
 
